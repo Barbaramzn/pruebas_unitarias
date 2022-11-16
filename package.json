@@ -1,0 +1,24 @@
+{
+  "name": "pruebas_unitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barbaramzn/pruebas_unitarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barbaramzn/pruebas_unitarias/issues"
+  },
+  "homepage": "https://github.com/Barbaramzn/pruebas_unitarias#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "devDependencies": {}
+}
